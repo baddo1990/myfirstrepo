@@ -1,7 +1,7 @@
 my first class
-class 2
+class 
 I learned alot
-
-
 my files are here
 learning is fun
+new files are here
+
