@@ -1,0 +1,2 @@
+my first class
+class 2
